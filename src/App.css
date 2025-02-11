@@ -1,0 +1,40 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  width: 100vw;
+  height: 100vh;
+  background-color: #161616; /* Simile a bg-neutral-950 */
+  background-image: radial-gradient(
+    ellipse 80% 80% at 50% -20%,
+    rgba(120, 119, 198, 0.3),
+    rgba(255, 255, 255, 0)
+  );
+}
+
+.navbar{
+  overflow-x: hidden;
+color: #d1d5db;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+  
+}
+.navbar::selection{
+  background-color: #67e8f9;
+  color: #083344;
+}
+.navbar2{
+ display: flex;
+ align-items: center;
+ gap: 10px;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
+.container2{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
