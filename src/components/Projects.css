@@ -1,0 +1,14 @@
+.container-projects{
+    border-bottom-width: 1px;
+    border-bottom-color: #171717; /* Codice colore di neutral-900 */
+    padding-bottom: 1rem; /* 4 * 0.25rem (1rem) */
+    
+}
+.container-projects h2{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    text-align: center;
+}
