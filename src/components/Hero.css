@@ -21,6 +21,7 @@
 .presentation{
     display: flex;
     flex-wrap: wrap;
+   
 }
 .text{
     width: 100%;
@@ -30,6 +31,7 @@
 display: flex;
 flex-direction: column;
 align-items: center;
+
 
 }
 .text2 h1{
@@ -48,14 +50,14 @@ align-items: center;
 
 }
 .hero-content{
-    .my-class {
+  
         margin-top: 0.5rem; /* my-2 */
         margin-bottom: 0.5rem; /* my-2 */
         max-width: 36rem; /* max-w-xl */
         padding-top: 1.5rem; /* py-6 */
         padding-bottom: 1.5rem; /* py-6 */
         font-weight: 300; /* font-light */
-        letter-spacing: -0.05em; /* tracking-tighter */
-      }
+       line-height: 1.5rem;
       
-}
+      };
+

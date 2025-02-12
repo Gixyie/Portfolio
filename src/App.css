@@ -4,7 +4,7 @@
   left: 0;
   z-index: -2;
   width: 100vw;
-  height: 100vh;
+  height: auto;
   background-color: #161616; /* Simile a bg-neutral-950 */
   background-image: radial-gradient(
     ellipse 80% 80% at 50% -20%,

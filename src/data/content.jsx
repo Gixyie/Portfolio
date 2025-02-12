@@ -15,11 +15,6 @@ export const EXPERIENCES = [
   }
 ];
 
-export const SKILLS = [
-  "JavaScript", 
-  "React", 
-  "Node.js", 
-  "HTML", 
-  "CSS", 
-  "Git"
-];
+
+
+export const ABOUT_TEXT = "Ciao! Sono Giorgia, un appassionato sviluppatore con un forte interesse per il design e la programmazione. Mi piace creare esperienze utente innovative e funzionali, combinando la mia conoscenza del front-end e del back-end per costruire applicazioni web moderne. Questo portfolio raccoglie una selezione dei miei progetti migliori e spero che ti piaccia il mio lavoro. Se vuoi collaborare o discutere di un nuovo progetto, non esitare a contattarmi!";
