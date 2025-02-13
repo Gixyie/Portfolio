@@ -1,0 +1,23 @@
+.container-contacts{
+    border-bottom-width: 1px;
+    border-bottom-color: #171717; /* Codice colore di neutral-900 */
+    padding-bottom: 1rem; /* 4 * 0.25rem (1rem) */
+    
+}
+.container-contacts h2{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    text-align: center;
+}
+.contacts-text{
+    text-align: center;
+    letter-spacing: -0.05em;
+
+}
+.contacts-text p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

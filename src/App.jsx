@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 import About from './components/About.jsx';
 import Technologies from './components/Technologies.jsx';
 import Projects from './components/Projects.jsx';
-
+import Contacts from './components/Contacts.jsx';
 
 
 
@@ -23,6 +23,7 @@ const App = () => {
          <About />
          <Technologies />
          <Projects />
+         <Contacts />
        </div>
     </div>
      </div>

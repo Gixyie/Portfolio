@@ -40,3 +40,9 @@ export const PROJECTS = [
     technologies:"React, Chart.js, LocalStorage, Firebase",
  },
 ];
+
+export const CONTACTS = {
+  address: "Via Aldo Ballarin 133, Roma, Italia",
+  phoneNo: "+39 3463351492",
+  email: "giorgiacoco@hotmail.com"
+};

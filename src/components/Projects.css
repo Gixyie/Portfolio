@@ -23,8 +23,8 @@
   }
   
   .project-image {
-    width: 130%;
-    height: 130%;
+    width: 80%;
+    height: 80%;
     max-width: 200px; /* Regola la dimensione */
     height: auto;
     border-radius: 10px;
