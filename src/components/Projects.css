@@ -12,3 +12,22 @@
     font-weight: 100;
     text-align: center;
 }
+
+.project-images {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center; /* Centra le immagini */
+    gap: 10px; /* Distanza tra le immagini */
+    margin-top: 10px; /* Spazio sopra le immagini */
+  }
+  
+  .project-image {
+    width: 130%;
+    height: 130%;
+    max-width: 200px; /* Regola la dimensione */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
